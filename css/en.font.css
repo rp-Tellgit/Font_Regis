@@ -1,0 +1,45 @@
+/* Montserrat Font from Google API */
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+/* Code */
+@font-face {
+  font-family: "TGothic-GT01";
+  src: url(https://github.com/rp-Tellgit/Font_Regis/blob/pub/En_Font_Basic/TGothic-GT01.ttf);
+}
+
+/* Gothic */
+@font-face {
+  font-family: "Olde English";
+  src: url(https://github.com/rp-Tellgit/Font_Regis/blob/pub/En_Font_Basic/OldeEnglish.ttf);
+}
+@font-face {
+  font-family: "TMincho-GT01";
+  src: url(https://github.com/rp-Tellgit/Font_Regis/blob/pub/En_Font_Basic/TMincho-GT01.ttf);
+}
+@font-face {
+  font-family: "TPMincho-GT01";
+  src: url(https://github.com/rp-Tellgit/Font_Regis/blob/pub/En_Font_Basic/TMincho-GT01.ttf);
+}
+
+/* Other 1 */
+@font-face {
+  font-family: "TKaisho-GT01";
+  src: url(https://github.com/rp-Tellgit/Font_Regis/blob/pub/En_Font_Basic/TKaisho-GT01.ttf);
+}
+@font-face {
+  font-family: "TKaisho-GT01";
+  src: url(https://github.com/rp-Tellgit/Font_Regis/blob/pub/En_Font_Basic/TKaisho-GT01.ttf);
+}
+@font-face {
+  font-family: "TKaisho-GT01";
+  src: url(https://github.com/rp-Tellgit/Font_Regis/blob/pub/En_Font_Basic/TKaisho-GT01.ttf);
+}
+/* Other 2 */
+@font-face {
+  font-family: "TKaisho-GT01";
+  src: url(https://github.com/rp-Tellgit/Font_Regis/blob/pub/En_Font_Basic/TKaisho-GT01.ttf);
+}
+@font-face {
+  font-family: "Honey Bee";
+  src: url(https://github.com/rp-Tellgit/Font_Regis/blob/pub/En_Font_Basic/HoneyBee.ttf);
+}

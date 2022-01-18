@@ -1,0 +1,18 @@
+@import "./ja.fonts.css";
+@import "./en.fonts.css";
+
+:root {
+  font-family: "Montserrat";
+}
+:root[lang="ja"] {
+  font-family: "TPGothic-GT01", "TPMincho-GT01";
+}
+:root .ss,
+:root p {
+  font-family: "TPMincho-GT01";
+}
+
+:root[lang="ja"] .ss,
+:root[lang="ja"] p {
+  font-family: "TPMincho-GT01";
+}
